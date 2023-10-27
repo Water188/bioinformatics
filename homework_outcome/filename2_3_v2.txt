@@ -8,6 +8,7 @@ chrom.size
 c.txt
 d1.txt
 dir.txt
+.DS_Store
 e1.txt
 f1.txt
 human_geneExp.txt

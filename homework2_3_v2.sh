@@ -1,6 +1,6 @@
 #!/bin/bash
 cd bash_homework
-for file in `ls`
+for file in `ls -a`
 do
 	if test -d ./$file
 	then
